@@ -50,13 +50,6 @@ Used SQL queries to analyze:
 - Rating distribution
 - Content growth over time
 
-### Tableau Dashboard
-Built interactive Tableau charts and dashboards to visualize:
-- Content growth trend
-- Genre analysis
-- Top countries
-- Rating analysis
-
 ---
 
 ## Key Findings
